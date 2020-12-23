@@ -1,0 +1,15 @@
+{
+  "name": "ice-cold-beer",
+  "description": "Ice Cold Beer!",
+  "author": {
+    "name" : "Michelle Funcke"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
+
